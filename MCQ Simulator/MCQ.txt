@@ -1,0 +1,13 @@
+1. Which symbol is used to create multiple inheritance?   (1) Dot   (2) Comma   (3) Dollar   (4) None of the mentioned b
+2. Which design patterns benefit from the multiple inheritance?   (1) Adapter and observer pattern   (2) Code pattern   (3) Glue pattern   (4) None a
+3. What are the things are inherited from the base class?   (1) Constructor and its destructor   (2) Operator=() members   (3) Friends   (4) All of the mentioned d
+4. The data elements in structure are also known as what?   (1) objects   (2) members   (3) datas   (4) none of the mentioned b
+5. What will happen when the structure is declared?   (1) it will not allocate any memory   (2) it will allocate the memory   (3) it will be declared and initialized   (4) none of the mentioned a
+6. The declaration of structure is also called as?   (1) sructure creator   (2) structure signifier   (3) structure specifier   (4) none of the mentioned c
+7. Which of the following is a properly defined structure?   (1) struct {int a;}   (2) struct a_struct {int a;}   (3) struct a_struct int a;   (4) struct a_struct {int a;}; d
+8. Which of the following accesses a variable in structure *b?   (1) b->var;   (2) b.var;   (3) b-var;   (4) b>var; a
+9. Where does a cin stops it extraction of data?   (1) By seeing a blankspace   (2) By seeing '('   (3) By seeing a blankspace '& ('   (4) None of the mentioned a
+10. What can be used to input a string with blankspace?   (1) inline   (2) getline   (3) putline   (4) none of the mentioned b
+11. How many parameters are there in getline function?   (1) 1   (2) 2   (3) 2 or 3   (4) 3 c
+12. Which of the following will not return a value?   (1) null   (2) void   (3) empty   (4) free b
+13. ____ have the return type void?   (1) all functions    (2) constructors   (3) destructors   (4) none of the mentioned d
